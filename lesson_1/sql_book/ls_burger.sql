@@ -1,9 +1,9 @@
 CREATE TABLE orders (
-  id integer,
-  customer_name text,
-  burger text,
-  side text,
-  drink text
+    id integer,
+    customer_name text,
+    burger text,
+    side text,
+    drink text
 );
 
 INSERT INTO orders VALUES (1, 'Todd Perez', 'LS Burger', 'Fries', 'Lemonade');
