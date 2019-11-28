@@ -1,0 +1,1 @@
+SELECT round(4 * PI() * 26.3 ^ 2);
