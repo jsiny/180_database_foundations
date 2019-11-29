@@ -1,0 +1,1 @@
+pg_dump -d test -t weather --inserts > 9_dump.sql
