@@ -1,0 +1,1 @@
+psql -d residents < 8_dump.sql
