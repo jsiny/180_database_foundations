@@ -1,0 +1,2 @@
+-- The year constraint is displayed as a check consrtaint:
+-- "year_range" CHECK (year >= 1900 AND year <= 2100)

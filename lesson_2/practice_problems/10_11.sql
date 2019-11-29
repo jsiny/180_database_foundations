@@ -1,0 +1,3 @@
+ALTER TABLE films
+  ADD CONSTRAINT year_range
+CHECK (year BETWEEN 1900 AND 2100);

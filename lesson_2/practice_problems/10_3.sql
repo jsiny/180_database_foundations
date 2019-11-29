@@ -1,0 +1,1 @@
+-- The 'nullable' column now includes 'not null'

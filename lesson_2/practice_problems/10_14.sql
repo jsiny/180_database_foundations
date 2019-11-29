@@ -1,0 +1,1 @@
+-- "director_name" CHECK (length(director::text) >= 3 AND director::text ~~ '% %'::text)
