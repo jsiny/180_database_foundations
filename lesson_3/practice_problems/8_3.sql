@@ -1,0 +1,7 @@
+INSERT INTO contacts 
+VALUES (DEFAULT, 'Merve', 'Elk', 6343511126),
+       (DEFAULT, 'Sawa', 'Fyodorov', 6125594874);
+
+INSERT INTO calls
+VALUES (DEFAULT, '2016-01-17 11:52:00', 175, 26),
+       (DEFAULT, '2016-01-18 21:22:00	', 79, 27);
