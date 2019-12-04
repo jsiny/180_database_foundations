@@ -1,0 +1,3 @@
+ALTER TABLE planets
+  ADD COLUMN star_id INTEGER NOT NULL
+      REFERENCES stars(id);
