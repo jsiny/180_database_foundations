@@ -22,3 +22,5 @@ CREATE TABLE bids (
 CREATE INDEX ON bids (bidder_id, item_id);
 
 \copy bidders FROM 'bidders.csv' WITH HEADER CSV;
+\copy items FROM 'items.csv' WITH HEADER CSV;
+ \copy bids FROM 'bids.csv' WITH HEADER CSV;
