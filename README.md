@@ -31,4 +31,4 @@ Themes of this course:
   * Converting a 1:M relationship to a M:M relationship
 
 Previous course:
-[RB 175 - "Networked Applications](https://github.com/jsiny/175_networked_applications)
+[RB 175 - "Networked Applications"](https://github.com/jsiny/175_networked_applications)
